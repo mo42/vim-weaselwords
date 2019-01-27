@@ -1,2 +1,2 @@
 # badwords
-Highlight words in Vim that
+Highlight words in Vim that indicate bad style
