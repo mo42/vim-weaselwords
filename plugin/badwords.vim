@@ -1,11 +1,11 @@
-function LoadBadWordsLanguage(language)
-  for line in readfile('badwords_' + language + '.txt')
-    call matchadd('badWordsGroup', line)
+function LLoadBadWordsLanguage(language)
+  for line in readfile("badwords_" . a:language . ".txt")
+    call matchadd("badWordsGroup", line)
   endfor
 endfunction
 
-function LoadBadWords()
+function LLoadBadWords()
   highlight badWordsGroup ctermbg=red ctermfg=white
-  LoadBadWordsLanguage('en')
-  LoadBadWordsLanguage('de')
+  call LLoadBadWordsLanguage('en')
+  call LLoadBadWordsLanguage('de')
 endfunction
