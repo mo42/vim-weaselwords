@@ -1,6 +1,7 @@
 \cactually
 \calso
 \caspect
+\cbut 
 \cimportant role
 \cin fact
 \cprove
