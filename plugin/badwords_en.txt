@@ -1,18 +1,18 @@
-\cactually
-\calso
-\caspect
-\cbut 
-\cimportant role
-\cin fact
-\cnormally
-\cof course
-\cprove
-\cseveral
-\csome 
-\csometimes
-\csuppose
-\ctraditionally
-\ctruly 
-\ctypically
-\cusually
-\cvery
+actually
+also
+aspect
+but 
+important role
+in fact
+normally
+of course
+prove
+several
+some 
+sometimes
+suppose
+traditionally
+truly 
+typically
+usually
+very
