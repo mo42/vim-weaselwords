@@ -1,5 +1,5 @@
 function LoadBadWordsLanguage(language)
-  let s:file = expand('<sfile>:p:h') . '/../badwords_' . a:language . '.txt'
+  let s:file = expand('<sfile>:p:h') . '/badwords_' . a:language . '.txt'
   for line in readfile(s:file)
     call matchadd('badWordsGroup', '\c' . line)
   endfor
