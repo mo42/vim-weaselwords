@@ -1,4 +1,4 @@
-lediglich
+ eben 
 aber 
 also 
 aufgezeigt 
@@ -8,7 +8,6 @@ beziehungsweise
 bloß 
 doch 
 durchaus 
-eben 
 eher 
 einfach 
 einigermaßen 
@@ -26,6 +25,7 @@ immerhin
 jedenfalls 
 jedoch 
 konkret 
+lediglich
 lediglich 
 letztendlich
 letztere 
@@ -46,6 +46,7 @@ schon
 sehr
 selbstverständlich 
 sicherlich 
+sinnvoll
 so 
 solch
 sozusagen 
