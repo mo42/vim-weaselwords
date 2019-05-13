@@ -1,0 +1,50 @@
+*badwords.txt* highlight dubious words in Vim
+
+             ____            ___        __            _      ~
+            | __ )  __ _  __| \ \      / /__  _ __ __| |___  ~
+            |  _ \ / _` |/ _` |\ \ /\ / / _ \| '__/ _` / __| ~
+            | |_) | (_| | (_| | \ V  V / (_) | | | (_| \__ \ ~
+            |____/ \__,_|\__,_|  \_/\_/ \___/|_|  \__,_|___/ ~
+
+          A simple Vim plugin for improving your text writing.
+
+==============================================================================
+CONTENTS                                                   *badwords-contents*
+
+    1. Usage ........................... |BadWordsUsage|
+    2. License ......................... |BadWordsLicense|
+    3. Bugs ............................ |BadWordsBugs|
+    4. Contributing .................... |BadWordsContributing|
+    5. Changelog ....................... |BadWordsChangelog|
+
+==============================================================================
+1. Usage                                                       *BadWordsUsage*
+
+This plugin provides highlighting of fuzzy words without configuration or
+invocation aside from installation.
+
+==============================================================================
+2. License                                                   *BadWordsLicense*
+
+BadWords is published under the MIT license.
+
+==============================================================================
+3. Bugs                                                         *BadWordsBugs*
+
+If you find a bug feel free to post it on the issue tracker:
+http://github.com/mo42/badwords/issues/
+
+==============================================================================
+4. Contributing                                         *BadWordsContributing*
+
+Contributions are encouraged!
+
+GitHub: https://github.com/mo42/badwords/
+
+==============================================================================
+5. Changelog                                               *BadWordsChangelog*
+
+v0.0.1
+    * Initial release
+
+==============================================================================
