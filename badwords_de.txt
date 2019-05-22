@@ -1,4 +1,5 @@
  eben 
+ gerade 
 aber 
 also 
 aufgezeigt 
@@ -18,7 +19,6 @@ formal
 freilich 
 gar 
 genau 
-gerade
 halt 
 hauptsächlich
 immerhin 
