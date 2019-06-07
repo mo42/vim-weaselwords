@@ -1,3 +1,4 @@
+ low
  prove
  very
 actually
@@ -11,7 +12,6 @@ holistic
 important role
 in fact
 large
-low
 normally
 of course
 really
