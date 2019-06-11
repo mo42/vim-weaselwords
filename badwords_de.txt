@@ -7,6 +7,7 @@ bekanntlich
 bestimmt 
 beziehungsweise 
 bloß 
+bzw.
 doch 
 durchaus 
 eher 
@@ -22,6 +23,7 @@ genau
 halt 
 hauptsächlich
 immerhin 
+irgendwie
 jedenfalls 
 jedoch 
 konkret 
@@ -32,6 +34,7 @@ letztere
 letztlich 
 mach
 mal 
+massiv
 mäßig 
 natürlich 
 normalerweise 
