@@ -30,7 +30,6 @@ suppose
 thing
 traditional
 traditionally
-truly
 truly 
 typically
 usually

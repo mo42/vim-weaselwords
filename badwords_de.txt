@@ -1,5 +1,8 @@
  eben 
  gerade 
+ groß
+ klein
+ mal 
 aber 
 also 
 aufgezeigt 
@@ -33,7 +36,6 @@ letztendlich
 letztere 
 letztlich 
 mach
-mal 
 massiv
 mäßig 
 natürlich 
