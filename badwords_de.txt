@@ -2,6 +2,7 @@
  gerade 
  groß
  klein
+ mach
  mal 
 aber 
 also 
@@ -25,6 +26,7 @@ gar
 genau 
 halt 
 hauptsächlich
+im prinzip
 immerhin 
 irgendwie
 jedenfalls 
@@ -35,7 +37,6 @@ lediglich
 letztendlich
 letztere 
 letztlich 
-mach
 massiv
 mäßig 
 natürlich 
@@ -44,6 +45,7 @@ nun
 nämlich 
 obwohl 
 offenbar 
+prinzipiell
 profund 
 prozess des 
 schließlich 
