@@ -5,6 +5,10 @@
 actually
 also
 aspect
+basic
+basically
+best
+better
 but 
 close 
 difficult
@@ -32,6 +36,9 @@ traditional
 traditionally
 truly 
 typically
+upon
 usually
 valuable
 widespread
+worse
+worst
