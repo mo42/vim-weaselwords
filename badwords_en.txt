@@ -1,6 +1,7 @@
  big
  low
  prove
+ still 
  very
 actually
 also
@@ -10,14 +11,18 @@ basically
 best
 better
 but 
+clear
 close 
 difficult
-high
+focus on
+high 
 holistic
 impact
 important role
 in fact
+in order to
 large
+last
 major
 minor
 natural
@@ -29,7 +34,6 @@ several
 small
 some 
 sometimes
-still
 suppose
 thing
 traditional
