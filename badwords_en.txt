@@ -15,7 +15,9 @@ clear
 close 
 difficult
 focus on
+furthermore
 high 
+highly
 holistic
 impact
 important role
@@ -25,6 +27,7 @@ large
 last
 major
 minor
+moreover
 natural
 normally
 of course
@@ -33,7 +36,9 @@ really
 several
 small
 some 
-sometimes
+someone
+something
+sometime
 suppose
 thing
 traditional
