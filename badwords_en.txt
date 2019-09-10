@@ -39,6 +39,8 @@ some
 someone
 something
 sometime
+somewhat
+somewhere
 suppose
 thing
 traditional
