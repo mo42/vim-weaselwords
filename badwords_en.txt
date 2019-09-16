@@ -3,7 +3,10 @@
  prove
  still 
  very
+abovementioned
 actually
+additionally
+aforementioned
 also
 aspect
 basic
@@ -12,13 +15,18 @@ best
 better
 but 
 clear
+clearly
 close 
 difficult
+enormous
+extrem 
+extremly
 focus on
 furthermore
 high 
 highly
 holistic
+however
 impact
 important role
 in fact
@@ -31,10 +39,15 @@ moreover
 natural
 normally
 of course
+often
+potentially
 problematic
 quite
 rather
 really
+recent 
+recently
+relatively
 several
 small
 some 
@@ -45,6 +58,7 @@ somewhat
 somewhere
 suppose
 thing
+to some extend
 traditional
 traditionally
 truly 
@@ -52,6 +66,7 @@ typically
 upon
 usually
 valuable
+various
 widespread
 worse
 worst
