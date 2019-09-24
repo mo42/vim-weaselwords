@@ -13,12 +13,14 @@ basic
 basically
 best
 better
+broad
 but 
 clear
 clearly
 close 
 difficult
 enormous
+especially
 extrem 
 extremly
 focus on
@@ -56,6 +58,8 @@ something
 sometime
 somewhat
 somewhere
+specific
+specifically
 suppose
 thing
 to some extend
@@ -67,6 +71,7 @@ upon
 usually
 valuable
 various
+vast 
 widespread
 worse
 worst
