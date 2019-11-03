@@ -12,6 +12,7 @@ bestimmt
 beziehungsweise 
 bloß 
 bzw.
+dabei
 doch 
 durchaus 
 eher 
@@ -27,6 +28,7 @@ gar
 genau 
 halt 
 hauptsächlich
+hierbei
 im prinzip
 immerhin 
 inzwischen
