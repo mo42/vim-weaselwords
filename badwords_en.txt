@@ -1,5 +1,5 @@
  big
- low
+ low 
  prove
  still 
  very
@@ -50,6 +50,7 @@ really
 recent 
 recently
 relatively
+roughly
 several
 small
 some 
