@@ -18,6 +18,7 @@ but
 clear
 clearly
 close 
+complex
 difficult
 enormous
 especially
@@ -33,6 +34,7 @@ holistic
 however
 impact
 important role
+in a sense 
 in fact
 in order to
 large
@@ -46,6 +48,7 @@ of course
 often
 potentially
 problematic
+pure
 quite
 rather
 really
@@ -54,6 +57,8 @@ recently
 relatively
 roughly
 several
+sheer
+similar
 small
 some 
 someone
