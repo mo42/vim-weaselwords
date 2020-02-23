@@ -4,7 +4,8 @@ Highlight words in Vim that indicate bad style.
 ## Installation
 
 | Plugin Manager | Installation |
-|Vundle | `Plugin 'vim-airline/vim-airline'` |
+| --- | --- |
+|Vundle | `Plugin 'mo42/badwords'` |
 
 ## Usage
 
