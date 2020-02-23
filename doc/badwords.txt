@@ -20,8 +20,12 @@ CONTENTS                                                   *badwords-contents*
 ==============================================================================
 1. Usage                                                       *BadWordsUsage*
 
-This plugin provides highlighting of fuzzy words without configuration or
-invocation aside from installation.
+This plugin provides highlighting of fuzzy words. You can highlight bad words
+using:
+
+call HighlightBadwords(spell_language)
+
+Currently, this plugin includes English ('en_us') and German ('de_de').
 
 ==============================================================================
 2. License                                                   *BadWordsLicense*
@@ -46,5 +50,7 @@ GitHub: https://github.com/mo42/badwords/
 
 v0.0.1
     * Initial release
+v0.0.2
+    * Switch languages while vim is running
 
 ==============================================================================
