@@ -7,14 +7,17 @@ abovementioned
 actually
 additionally
 aforementioned
+almost
 also
 aspect
 basic
 basically
 best
 better
+both
 broad
 but 
+certain
 clear
 clearly
 close 
@@ -37,6 +40,7 @@ important role
 in a sense 
 in fact
 in order to
+into
 large
 last
 major
