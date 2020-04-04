@@ -28,7 +28,9 @@ especially
 extrem 
 extremly
 few
+final
 focus on
+following
 furthermore
 great
 high 
@@ -50,6 +52,7 @@ natural
 normally
 of course
 often
+only
 potentially
 problematic
 pure
@@ -75,7 +78,7 @@ specifically
 strong
 suppose
 thing
-to some extend
+to some extent
 traditional
 traditionally
 truly 
