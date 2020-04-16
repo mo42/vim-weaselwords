@@ -22,9 +22,12 @@ clear
 clearly
 close 
 complex
+dense
+detail
 difficult
 enormous
 especially
+even
 extrem 
 extremly
 few
@@ -43,6 +46,7 @@ in a sense
 in fact
 in order to
 into
+is able
 large
 last
 major
@@ -50,12 +54,14 @@ minor
 moreover
 natural
 normally
+novel
 of course
 often
 only
 potentially
 problematic
 pure
+quick
 quite
 rather
 really
@@ -76,6 +82,7 @@ somewhere
 specific
 specifically
 strong
+such
 suppose
 thing
 to some extent

@@ -4,6 +4,7 @@
  klein
  mach
  mal 
+ schließlich 
 aber 
 also 
 aufgezeigt 
@@ -64,7 +65,6 @@ praktisch
 prinzipiell
 profund 
 prozess des 
-schließlich 
 schon 
 sehr
 selbstverständlich 
