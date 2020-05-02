@@ -8,6 +8,7 @@ actually
 additionally
 aforementioned
 almost
+already
 also
 aspect
 basic
@@ -27,7 +28,7 @@ detail
 difficult
 enormous
 especially
-even
+even 
 extrem 
 extremly
 few
@@ -71,7 +72,7 @@ relatively
 roughly
 several
 sheer
-similar
+similar 
 small
 some 
 someone
