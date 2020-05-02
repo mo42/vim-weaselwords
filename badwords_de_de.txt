@@ -23,6 +23,7 @@ einfach
 einigermaßen 
 erfolgt 
 ernsthaft
+erst 
 erstere 
 etwa 
 faktisch
@@ -37,6 +38,8 @@ hauptsächlich
 hierbei
 im grunde
 im prinzip
+immer mehr
+immer weniger
 immerhin 
 in der tat
 inzwischen
