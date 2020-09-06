@@ -12,6 +12,7 @@ almost
 already
 also
 aspect
+at bit
 basic
 basically
 best
@@ -24,14 +25,17 @@ clear
 clearly
 close 
 complex
+currently
 dense
 detail
 difficult
+due to
 enormous
 especially
 even 
 extrem 
 extremly
+facilitate
 few
 final
 focus on
@@ -47,6 +51,7 @@ important role
 in a sense 
 in fact
 in order to
+initial
 into
 is able
 large
@@ -54,13 +59,17 @@ last
 major
 minor
 moreover
+myself
 natural
 normally
 novel
+numerous
 of course
 often
+ongoing
 only
 potentially
+prioritize
 problematic
 pure
 quick
@@ -70,6 +79,7 @@ really
 recent 
 recently
 relatively
+remainder
 roughly
 several
 sheer
@@ -81,6 +91,7 @@ something
 sometime
 somewhat
 somewhere
+sort of
 specific
 specifically
 strong
