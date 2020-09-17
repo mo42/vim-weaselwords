@@ -8,9 +8,11 @@ accordingly
 actually
 additionally
 aforementioned
+all of
 almost
 already
 also
+arguably
 aspect
 at bit
 basic
@@ -26,6 +28,7 @@ clearly
 close 
 complex
 currently
+decidedly
 dense
 detail
 difficult
@@ -39,6 +42,7 @@ facilitate
 few
 final
 focus on
+focus upon
 following
 furthermore
 great
@@ -48,19 +52,24 @@ holistic
 however
 impact
 important role
+importantly
 in a sense 
 in fact
 in order to
 initial
 into
 is able
+issue
 large
+last
 last
 major
 minor
 moreover
 myself
 natural
+nevertheless
+non-
 normally
 novel
 numerous
@@ -75,6 +84,7 @@ pure
 quick
 quite
 rather
+re-
 really
 recent 
 recently
@@ -85,6 +95,7 @@ several
 sheer
 similar 
 small
+so called
 some 
 someone
 something
@@ -109,5 +120,6 @@ valuable
 various
 vast 
 widespread
+will likely be
 worse
 worst
