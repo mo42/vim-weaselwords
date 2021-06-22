@@ -26,6 +26,7 @@ certain
 clear
 clearly
 close 
+comparable
 complex
 currently
 decidedly
@@ -56,6 +57,7 @@ importantly
 in a sense 
 in fact
 in order to
+in particular
 initial
 into
 is able
@@ -77,6 +79,7 @@ of course
 often
 ongoing
 only
+particularly
 potentially
 prioritize
 problematic
