@@ -3,15 +3,16 @@
  prove
  still 
  very
+a lot
 abovementioned
 accordingly
 actually
 additionally
 aforementioned
-all of
 almost
 already
 also
+amazingly
 arguably
 aspect
 at bit
@@ -27,6 +28,7 @@ clear
 clearly
 close 
 comparable
+completely
 complex
 currently
 decidedly
@@ -37,15 +39,17 @@ due to
 enormous
 especially
 even 
-extrem 
-extremly
+extreme
+extremely
 facilitate
+far
 few
 final
 focus on
 focus upon
 following
 furthermore
+generally
 great
 high 
 highly
@@ -58,20 +62,22 @@ in a sense
 in fact
 in order to
 in particular
+incredibly
 initial
 into
 is able
 issue
 large
 last
-last
 major
+maybe
 minor
 moreover
+much
 myself
 natural
+nearly
 nevertheless
-non-
 normally
 novel
 numerous
@@ -81,21 +87,26 @@ ongoing
 only
 particularly
 potentially
+presumably
+pretty much
 prioritize
 problematic
 pure
 quick
 quite
+quite a bit
+quite a lot
 rather
-re-
 really
 recent 
 recently
 relatively
 remainder
+remarkably
 roughly
 several
 sheer
+significantly
 similar 
 small
 so called
@@ -109,6 +120,7 @@ sort of
 specific
 specifically
 strong
+substantially
 such
 suppose
 thing
