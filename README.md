@@ -20,9 +20,9 @@ clear existing highlights call with the empty string:
 
 `call HighlightBadwords('')`
 
-Code for cycling through spell checkers and badwords
+VimScript for cycling through spell checkers and badwords
 
-```vimscript
+```vim
 nnoremap <leader>l :call CycleSpellLanguage()<cr>
 let g:current_spell_language = ''
 function CycleSpellLanguage()
