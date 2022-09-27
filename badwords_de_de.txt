@@ -34,6 +34,8 @@ formal
 freilich 
 gar 
 genau 
+gewiss
+gewissermaßen
 grundsätzlich
 halt 
 hauptsächlich
@@ -44,6 +46,7 @@ immer mehr
 immer weniger
 immerhin 
 in der tat
+in gewissem Maße
 inzwischen
 irgendwie
 jedenfalls 
@@ -89,6 +92,7 @@ typisch
 unbedingt 
 verfügt 
 vielmehr
+vollumfänglich
 völlig 
 wahrscheinlich 
 wirklich
