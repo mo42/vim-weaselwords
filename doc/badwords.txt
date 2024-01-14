@@ -6,7 +6,7 @@
             | |_) | (_| | (_| | \ V  V / (_) | | | (_| \__ \ ~
             |____/ \__,_|\__,_|  \_/\_/ \___/|_|  \__,_|___/ ~
 
-          A simple Vim plugin for improving your text writing.
+             A simple Vim plugin for improving your writing.
 
 ==============================================================================
 CONTENTS                                                   *badwords-contents*
