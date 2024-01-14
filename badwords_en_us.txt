@@ -3,6 +3,7 @@
  prove
  still 
  very
+a bit
 a lot
 abovementioned
 accordingly
@@ -15,7 +16,6 @@ also
 amazingly
 arguably
 aspect
-at bit
 basic
 basically
 best
@@ -39,6 +39,7 @@ due to
 due to the fact
 enormous
 especially
+essentially, it's like
 even 
 extreme
 extremely
@@ -60,6 +61,7 @@ impact
 important role
 importantly
 in a sense 
+in a way
 in fact
 in order to
 in particular
@@ -68,12 +70,16 @@ initial
 into
 is able
 issue
+kind of
 large
 last
 major
 maybe
 minor
+more often than not
+more or less
 moreover
+moreover, basically
 much
 myself
 natural
@@ -89,6 +95,8 @@ only
 particularly
 potentially
 presumably
+pretty good
+pretty much
 pretty much
 prioritize
 problematic
@@ -117,10 +125,11 @@ something
 sometime
 somewhat
 somewhere
-sort of
+sort of like
 specific
 specifically
 strong
+stuff like
 substantially
 such
 suppose

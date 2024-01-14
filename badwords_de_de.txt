@@ -7,6 +7,7 @@
  schließlich 
 aber 
 also 
+auf eine gewisse art und weise
 aufgezeigt 
 bekanntlich 
 besonders
@@ -27,6 +28,7 @@ erfolgt
 ernsthaft
 erst 
 erstere 
+es scheint, als ob
 etwa 
 faktisch
 federführend
@@ -45,8 +47,10 @@ im prinzip
 immer mehr
 immer weniger
 immerhin 
+in der regel
 in der tat
-in gewissem Maße
+in gewissem maße
+in gewisser weise
 inzwischen
 irgendwie
 jedenfalls 
@@ -60,6 +64,7 @@ letztendlich
 letztere 
 letztlich 
 massiv
+mehr oder weniger
 meistens
 mittlerweile
 mäßig 
@@ -91,6 +96,7 @@ trotzdem
 typisch
 unbedingt 
 verfügt 
+vielleicht, vielleicht auch nicht
 vielmehr
 vollumfänglich
 völlig 
