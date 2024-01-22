@@ -1,0 +1,59 @@
+*weaselwords.txt* highlight dubious words in Vim
+        __        __                  ___        __            _
+        \ \      / /__  __ _ ___  ___| \ \      / /__  _ __ __| |___
+         \ \ /\ / / _ \/ _` / __|/ _ \ |\ \ /\ / / _ \| '__/ _` / __|
+          \ V  V /  __/ (_| \__ \  __/ | \ V  V / (_) | | | (_| \__ \
+           \_/\_/ \___|\__,_|___/\___|_|  \_/\_/ \___/|_|  \__,_|___/
+
+               A simple Vim plugin for improving your writing.
+
+==============================================================================
+CONTENTS                                                *weaselwords-contents*
+
+    1. Usage ........................... |WeaselWordsUsage|
+    2. License ......................... |WeaselWordsLicense|
+    3. Bugs ............................ |WeaselWordsBugs|
+    4. Contributing .................... |WeaselWordsContributing|
+    5. Changelog ....................... |WeaselWordsChangelog|
+
+==============================================================================
+1. Usage                                                    *WeaselWordsUsage*
+
+This plugin provides highlighting of fuzzy words. You can highlight bad words
+using:
+
+call HighlightWeaselWords(spell_language)
+
+Currently, this plugin includes English ('en_us') and German ('de_de').
+
+==============================================================================
+2. License                                                *WeaselWordsLicense*
+
+WeaselWords is published under the MIT license.
+
+==============================================================================
+3. Bugs                                                      *WeaselWordsBugs*
+
+If you find a bug feel free to post it on the issue tracker:
+http://github.com/mo42/vim-weaselwords/issues/
+
+==============================================================================
+4. Contributing                                      *WeaselWordsContributing*
+
+Contributions are encouraged!
+
+GitHub: https://github.com/mo42/weaselwords/
+
+==============================================================================
+5. Changelog                                            *WeaselWordsChangelog*
+
+v0.0.1
+    * Initial release
+v0.0.2
+    * Switch languages while vim is running
+v1.0.0
+    * Word list and readme refinements
+v1.1.0
+    * Extended word lists and renaming of plugin
+
+==============================================================================
