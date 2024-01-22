@@ -5,6 +5,7 @@
  very
 a bit
 a lot
+above-mentioned
 abovementioned
 accordingly
 actually
@@ -14,7 +15,9 @@ almost
 already
 also
 amazingly
+anyway
 arguably
+as much as
 aspect
 basic
 basically
@@ -27,10 +30,13 @@ certain
 clear
 clearly
 close 
+commonly
 comparable
 completely
 complex
+could be argued
 currently
+customarily
 decidedly
 dense
 detail
@@ -41,6 +47,7 @@ enormous
 especially
 essentially, it's like
 even 
+evidence suggests
 extreme
 extremely
 facilitate
@@ -53,8 +60,11 @@ following
 furthermore
 generally
 great
+has been claimed
+has been noted
 high 
 highly
+history tells us
 holistic
 however
 impact
@@ -69,6 +79,9 @@ incredibly
 initial
 into
 is able
+is often said
+is said
+is widely believed
 issue
 kind of
 large
@@ -93,10 +106,11 @@ often
 ongoing
 only
 particularly
+people say
+possibly
 potentially
 presumably
 pretty good
-pretty much
 pretty much
 prioritize
 problematic
@@ -112,6 +126,7 @@ recently
 relatively
 remainder
 remarkably
+research suggests
 roughly
 several
 sheer
@@ -128,23 +143,31 @@ somewhere
 sort of like
 specific
 specifically
+stands to reason
 strong
 stuff like
 substantially
 such
 suppose
+tends to be
+that being said
+the fact is
+the fact that
 thing
 to some extent
 traditional
 traditionally
 truly 
 typically
+understood that
 upon
 usually
 valuable
 various
 vast 
+virtually
 widespread
 will likely be
+with all due respect
 worse
 worst

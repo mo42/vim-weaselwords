@@ -5,23 +5,40 @@
  mach
  mal 
  schließlich 
+Art und Weise
 aber 
+allerdings
 also 
-auf eine gewisse art und weise
+an und fuer sich
+anscheinend
+auch
+auf alle Fälle
+auf den ersten Blick
+auf den ersten Blick scheint
+auf der anderen Seite
+auf der anderen Seite des Spektrums
+auf diese Weise
+auf jeden Fall
+auf jeden Fall nicht
 aufgezeigt 
+außerdem
 bekanntlich 
 besonders
 bestimmt 
-beziehungsweise 
+beziehungsweise
 bloß 
 bzw.
 dabei
-dann
+definitiv
 dementsprechend
+dennoch
 doch 
 durchaus 
+durchaus möglich
+eher
 eher 
 eigentlich
+eindeutig
 einfach 
 einigermaßen 
 erfolgt 
@@ -30,34 +47,57 @@ erst
 erstere 
 es scheint, als ob
 etwa 
+eventuell
 faktisch
 federführend
+finde, dass
+finden, dass
+findet, dass
 formal 
 freilich 
+ganz
+ganzheitlich
 gar 
 genau 
 gewiss
+gewissem maße
+gewisser Hinsicht
+gewisser Hinsicht kann
+gewisser Weise
+gewisser Weise schon
+gewisser Weise stimmt
+gewisser weise
 gewissermaßen
 grundsätzlich
 halt 
 hauptsächlich
 hierbei
+im Allgemeinen
+im Endeffekt
+im Großen und Ganzen
+im Grunde genommen
 im grunde
 im prinzip
 immer mehr
 immer weniger
 immerhin 
+in der Regel
+in der Tat
+in der Tat nicht
 in der regel
 in der tat
-in gewissem maße
-in gewisser weise
+in diesem Zusammenhang
+in jedem Fall
+in jedem Fall nicht
 inzwischen
 irgendwie
 jedenfalls 
 jedoch 
 keinesfalls
 klar
+komplex
 konkret 
+kurz gesagt
 lediglich
 lediglich 
 letztendlich
@@ -68,44 +108,64 @@ mehr oder weniger
 meistens
 mittlerweile
 mäßig 
+möglicherweise
+nachhaltig
+natürlich
 natürlich 
 normalerweise 
+nun
 nun 
 nämlich 
 obwohl 
+offenbar
 offenbar 
 praktisch
 prinzipiell
+proaktiv
 profund 
 prozess des 
 rahmenbedingung
+scheinbar
 schon 
 sehr
 selbstverständlich 
 sicherlich 
 sinnvoll
 so 
+so oder so
 sogar
 solch
-sozusagen 
+sozusagen
 standardmäßig
 streng genommen 
 tatsächlich 
+tendenziell
 traditionell 
 trotzdem 
 typisch
 unbedingt 
+und so weiter
+unter Umständen
+unter Umständen möglich
 verfügt 
+vermutlich
+vgl.
+vielleicht
 vielleicht, vielleicht auch nicht
 vielmehr
 vollumfänglich
 völlig 
+wahrscheinlich
 wahrscheinlich 
 wirklich
 wobei 
+wohl
 wohl 
+zeitnah
+zielorientiert
 ziemlich
 zwar
+zweifellos
 überhaupt 
 überwiegend 
 üblicherweise 
