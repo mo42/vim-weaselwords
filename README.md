@@ -11,6 +11,11 @@ overused phrases that add more or less nothing to my writing.
 - Simply based on word lists that the user can edit or a community can maintain.
 - No need to connect to the internet. Your texts stay in your editor.
 
+### Supported Languages
+- English
+- German
+- French
+
 ## Installation
 
 | Plugin Manager | Plugin Section |
