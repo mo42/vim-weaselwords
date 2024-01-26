@@ -15,6 +15,7 @@ overused phrases that add more or less nothing to my writing.
 - English
 - German
 - French
+- Spanish
 
 ## Installation
 
