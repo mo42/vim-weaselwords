@@ -3,6 +3,10 @@ let g:weaselWordsCurrentMatches = []
 
 function s:LoadWeaselWordsLanguage(language)
   let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
+  if !filereadable(l:f)
+    echomsg "File of weasel words not found: " . l:f
+    return
+  endif
   for line in readfile(l:f)
     let l:id = matchadd('weaselWordsGroup', '\c' . line)
     call add(g:weaselWordsCurrentMatches, l:id)
