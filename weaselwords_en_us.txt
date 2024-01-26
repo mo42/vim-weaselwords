@@ -1,10 +1,13 @@
  big
+ last 
  low 
  prove
  still 
+ thing
  very
 a bit
 a lot
+a number
 above-mentioned
 abovementioned
 accordingly
@@ -48,9 +51,12 @@ especially
 essentially, it's like
 even 
 evidence suggests
+exceedingly
+excellent
 extreme
 extremely
 facilitate
+fairly
 far
 few
 final
@@ -67,6 +73,7 @@ highly
 history tells us
 holistic
 however
+huge
 impact
 important role
 importantly
@@ -77,6 +84,7 @@ in order to
 in particular
 incredibly
 initial
+interestingly
 into
 is able
 is often said
@@ -85,14 +93,16 @@ is widely believed
 issue
 kind of
 large
-last
+largely
 major
+many
 maybe
 minor
 more often than not
 more or less
 moreover
 moreover, basically
+mostly
 much
 myself
 natural
@@ -117,8 +127,6 @@ problematic
 pure
 quick
 quite
-quite a bit
-quite a lot
 rather
 really
 recent 
@@ -149,11 +157,12 @@ stuff like
 substantially
 such
 suppose
+surprisingly
 tends to be
 that being said
 the fact is
 the fact that
-thing
+tiny
 to some extent
 traditional
 traditionally
@@ -164,7 +173,9 @@ upon
 usually
 valuable
 various
+vast
 vast 
+very
 virtually
 widespread
 will likely be
