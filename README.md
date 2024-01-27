@@ -3,8 +3,12 @@
 Improve your writing in Vim by highlighting weasel words. For example in
 sentences like this:
 
-More often than not, I find myself using arguably generic and, of course,
-overused phrases that add more or less nothing to my writing.
+<span style="color:white; background:red">More often than not</span>, I find
+<span style="color:white; background:red">myself</span> using <span
+style="color:white; background:red">arguably</span> <span style="color:white;
+background:red">generic</span> and, <span style="color:white;
+background:red">of course</span>, overused phrases that add <span
+style="color:white; background:red">more or less</span> nothing to my writing.
 
 ## Features
 
