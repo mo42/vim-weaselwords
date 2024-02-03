@@ -14,6 +14,7 @@ style="color:white; background:red">more or less</span> nothing to my writing.
 
 - Simply based on word lists that the user can edit or a community can maintain.
 - No need to connect to the internet. Your texts stay in your editor.
+- Experimental passive detection for English
 
 ### Supported Languages
 - English
