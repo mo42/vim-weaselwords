@@ -34,13 +34,17 @@ function HighlightWeaselWords(language)
 endfunction
 
 function s:LoadPassiveWords(language)
-  if a:language != 'en_us'
-    " Passive detection is experimental and only in English
+  let l:f = s:fileBase . '/../passive_words_' . a:language . '.txt'
+  if !filereadable(l:f)
+    echomsg "File of passive words not found: " . l:f
     return
   endif
-  let passiveWords = ['brought', 'chosen', 'found', 'given', 'gotten', 'made', 'put', 'said', 'set', 'taken', 'thought', 'told']
-  let passiveVoicePattern = '\v(am|is|are|was|were|be|been|being)\s+(\w+ed|\w+en\s|' . join(passiveWords, '|') . ')'
-  let l:id = matchadd('passiveWordGroup', '\c' . passiveVoicePattern)
+  let l:passiveWords = readfile(l:f)
+  let l:sepIdx = index(l:passiveWords, '--')
+  let l:passivePrefixes = filter(copy(l:passiveWords), {idx, _ -> idx < l:sepIdx })
+  let l:passiveWords = filter(copy(l:passiveWords), {idx, _ -> idx > l:sepIdx })
+  let l:passiveVoicePattern = '\v(' . join(l:passivePrefixes, '|') . ')\s+(\w+ed|\w+en\s|' . join(l:passiveWords, '|')  . ')'
+  let l:id = matchadd('passiveWordGroup', '\c' . l:passiveVoicePattern)
   call add(g:passiveMatches, l:id)
 endfunction
 
