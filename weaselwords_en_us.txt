@@ -47,8 +47,10 @@ decidedly
 dense
 detail
 difficult
+draw to your attention
 due to
 due to the fact
+due to the fact that
 enormous
 especially
 essentially, it's like
@@ -66,11 +68,14 @@ final
 focus on
 focus upon
 following
+for the purpose of
+for the reason that
 furthermore
 generally
 great
 has been claimed
 has been noted
+have the ability to
 high 
 highly
 history tells us
@@ -117,6 +122,8 @@ novel
 numerous
 of course
 often
+on the occasion of
+on two separate occasions
 ongoing
 only
 particularly
@@ -171,6 +178,7 @@ to some extent
 traditional
 traditionally
 truly 
+two times
 typically
 understood that
 upon
@@ -184,5 +192,6 @@ virtually
 widespread
 will likely be
 with all due respect
+with reference to
 worse
 worst
