@@ -1,14 +1,8 @@
 # vim-weaselwords
 
-Improve your writing in Vim by highlighting weasel words. For example in
-sentences like this:
+Improve your writing in Vim by highlighting weasel words. The plugin highlights weaselwords in red and passive sentences in blue. Example:
 
-<span style="color:white; background:red">More often than not</span>, I find
-<span style="color:white; background:red">myself</span> using <span
-style="color:white; background:red">arguably</span> <span style="color:white;
-background:red">generic</span> and, <span style="color:white;
-background:red">of course</span>, overused phrases that add <span
-style="color:white; background:red">more or less</span> nothing to my writing.
+![vim-weaselwords example in Vim editor](example.png)
 
 ## Features
 
@@ -19,8 +13,8 @@ style="color:white; background:red">more or less</span> nothing to my writing.
 ### Supported Languages
 - English
 - German
-- French
-- Spanish
+- French (basic)
+- Spanish (basic)
 
 ## Installation
 
@@ -55,6 +49,7 @@ function CycleSpellLanguage()
   let i = (index(languages, g:current_spell_language) + 1) % len(languages)
   let g:current_spell_language = languages[i]
   call HighlightWeaselWords(g:current_spell_language)
+  call HighlightPassive(g:current_spell_language)
   if empty(g:current_spell_language)
     set nospell
     echo 'No spell language'
