@@ -15,6 +15,7 @@ actually
 additionally
 aforementioned
 almost
+along the lines of
 already
 also
 amazingly
@@ -88,6 +89,8 @@ importantly
 in a sense 
 in a way
 in fact
+in light of the fact that
+in order to
 in order to
 in particular
 incredibly
@@ -173,6 +176,7 @@ tends to be
 that being said
 the fact is
 the fact that
+the majority of
 tiny
 to some extent
 traditional
