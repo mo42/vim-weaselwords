@@ -28,7 +28,7 @@ Then, run `:PluginInstall` (Vundle) or `:PlugInstall` (Vim-plug).
 
 ## Usage
 
-Highlight weasel words of a language like so:
+### Highlight weasel words
 
 `call HighlightWeaselWords(spell_language)`
 
@@ -38,6 +38,11 @@ clear existing highlights call with the empty string:
 
 `call HighlightWeaselWords('')`
 
+### Highlight passive sentences:
+
+`call HighlightPassive(g:current_spell_language)`
+
+### Cycling through spell checkers, weasel words and passive
 VimScript for cycling through spell checkers and enabling corresponding weasel
 words:
 
