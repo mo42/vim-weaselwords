@@ -2,7 +2,7 @@ let s:fileBase = expand('<sfile>:p:h')
 let g:weaselWordsCurrentMatches = []
 let g:passiveMatches = []
 
-function s:LoadWeaselWordsLanguage(language)
+function! s:LoadWeaselWordsLanguage(language)
   let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
   if !filereadable(l:f)
     echomsg "File of weasel words not found: " . l:f
@@ -14,7 +14,7 @@ function s:LoadWeaselWordsLanguage(language)
   endfor
 endfunction
 
-function s:RemoveMatches()
+function! s:RemoveMatches()
   for i in g:weaselWordsCurrentMatches
     call matchdelete(i)
   endfor
@@ -25,7 +25,7 @@ function s:RemoveMatches()
   let g:passiveMatches = []
 endfunction
 
-function HighlightWeaselWords(language)
+function! HighlightWeaselWords(language)
   highlight weaselWordsGroup ctermbg=red ctermfg=white
   call s:RemoveMatches()
   if (len(a:language) > 0)
@@ -33,7 +33,7 @@ function HighlightWeaselWords(language)
   endif
 endfunction
 
-function s:LoadPassiveWords(language)
+function! s:LoadPassiveWords(language)
   let l:f = s:fileBase . '/../passive_words_' . a:language . '.txt'
   if !filereadable(l:f)
     echomsg "File of passive words not found: " . l:f
@@ -48,7 +48,7 @@ function s:LoadPassiveWords(language)
   call add(g:passiveMatches, l:id)
 endfunction
 
-function HighlightPassive(language)
+function! HighlightPassive(language)
   highlight passiveWordGroup ctermbg=blue ctermfg=white
   if (len(a:language) > 0)
     call s:LoadPassiveWords(a:language)
