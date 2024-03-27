@@ -43,7 +43,7 @@ function! s:LoadPassiveWords(language)
   let l:sepIdx = index(l:passiveWords, '--')
   let l:passivePrefixes = filter(copy(l:passiveWords), {idx, _ -> idx < l:sepIdx })
   let l:passiveWords = filter(copy(l:passiveWords), {idx, _ -> idx > l:sepIdx })
-  let l:passiveVoicePattern = '\v(' . join(l:passivePrefixes, '|') . ')\s+(\w+ed|\w+en\s|' . join(l:passiveWords, '|')  . ')'
+  let l:passiveVoicePattern = '\v(\s' . join(l:passivePrefixes, '|\s') . ')\s+(\w+ed|\w+en\s|' . join(l:passiveWords, '|')  . ')'
   let l:id = matchadd('passiveWordGroup', '\c' . l:passiveVoicePattern)
   call add(g:passiveMatches, l:id)
 endfunction
