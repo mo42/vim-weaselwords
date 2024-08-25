@@ -27,6 +27,7 @@ arguably
 as a matter of fact
 as much as
 aspect
+at the end of the day
 awesome
 basic
 basically
@@ -41,6 +42,7 @@ broad
 but 
 by means of
 certain
+circle back on
 clear
 clearly
 close 
@@ -52,10 +54,12 @@ could be argued
 currently
 customarily
 decidedly
+deep dive
 dense
 detail
 difficult
 draw to your attention
+drill down
 due to
 due to the fact
 due to the fact that
@@ -79,6 +83,7 @@ following
 for the purpose of
 for the reason that
 furthermore
+game changer
 generally
 going forward
 great
@@ -91,6 +96,8 @@ history tells us
 holistic
 however
 huge
+hypothesize
+ideate
 impact
 important role
 importantly
@@ -191,6 +198,8 @@ substantially
 such
 suppose
 surprisingly
+synergize
+synergy
 tends to be
 that being said
 the fact is
