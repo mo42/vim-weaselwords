@@ -26,7 +26,7 @@ function! s:RemoveMatches()
 endfunction
 
 function! HighlightWeaselWords(language)
-  highlight weaselWordsGroup ctermbg=red ctermfg=white
+  highlight weaselWordsGroup ctermfg=red ctermbg=white guifg=#282828 guibg=#cc241d
   call s:RemoveMatches()
   if (len(a:language) > 0)
     call s:LoadWeaselWordsLanguage(a:language)
@@ -49,7 +49,7 @@ function! s:LoadPassiveWords(language)
 endfunction
 
 function! HighlightPassive(language)
-  highlight passiveWordGroup ctermbg=blue ctermfg=white
+  highlight passiveWordGroup ctermfg=blue ctermbg=white guifg=#282828 guibg=#458588
   if (len(a:language) > 0)
     call s:LoadPassiveWords(a:language)
   endif
