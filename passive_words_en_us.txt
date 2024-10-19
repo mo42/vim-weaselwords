@@ -14,8 +14,11 @@ given
 gotten
 made
 put
+read
 said
 set
+sung
 taken
 thought
 told
+won
