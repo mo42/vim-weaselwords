@@ -2,7 +2,7 @@ let s:fileBase = expand('<sfile>:p:h')
 let g:weaselWordsCurrentMatches = []
 let g:passiveMatches = []
 
-function! s:LoadWeaselWordsLanguage(language)
+function! s:LoadWeaselWords(language)
   let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
   if !filereadable(l:f)
     echomsg "File of weasel words not found: " . l:f
@@ -29,7 +29,7 @@ function! HighlightWeaselWords(language)
   highlight weaselWordsGroup ctermfg=red ctermbg=white guifg=#282828 guibg=#cc241d
   call s:RemoveMatches()
   if (len(a:language) > 0)
-    call s:LoadWeaselWordsLanguage(a:language)
+    call s:LoadWeaselWords(a:language)
   endif
 endfunction
 
