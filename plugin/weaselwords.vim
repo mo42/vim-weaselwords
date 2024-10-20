@@ -14,6 +14,17 @@ function! s:LoadWeaselWords(language)
   endfor
 endfunction
 
+function! RemoveWords(language)
+  let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
+  if !filereadable(l:f)
+    echomsg "File of weasel words not found: " . l:f
+    return
+  endif
+  for line in readfile(l:f)
+    silent! execute '%s/' . line . '//g'
+  endfor
+endfunction
+
 function! s:RemoveMatches()
   for i in g:weaselWordsCurrentMatches
     call matchdelete(i)
