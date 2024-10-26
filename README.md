@@ -9,7 +9,7 @@ The plugin highlights weaselwords in red and passive sentences in blue. Example:
 
 - Simply based on word lists that the user can edit or a community can maintain.
 - No need to connect to the internet. Your texts stay in your editor.
-- Experimental passive detection for English
+- Experimental passive detection for English and German
 
 ### Supported Languages
 - English
