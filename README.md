@@ -15,6 +15,7 @@ Improve your writing in Vim by highlighting weasel words. The plugin highlights 
 - German
 - French (basic)
 - Spanish (basic)
+- Dutch (basic)
 
 ## Installation
 
