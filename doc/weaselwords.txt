@@ -24,7 +24,12 @@ using:
 
 call HighlightWeaselWords(spell_language)
 
-Currently, this plugin includes English ('en_us') and German ('de_de').
+Currently, this plugin includes English ('en_us'), German ('de_de'), and some
+French ('fr_fr'), and Spanish ('es_es').
+
+The plugin also can also highlight passive sentences (currently for English):
+
+call HighlightPassive(spell_language)
 
 ==============================================================================
 2. License                                                *WeaselWordsLicense*
@@ -55,5 +60,9 @@ v1.0.0
     * Word list and readme refinements
 v1.1.0
     * Extended word lists and renaming of plugin
+v1.2.0
+    * Passive support for English and extended word lists
+v1.2.1
+    * Refined passive support and words lists
 
 ==============================================================================

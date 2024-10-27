@@ -1,6 +1,7 @@
 # vim-weaselwords
 
-Improve your writing in Vim by highlighting weasel words. The plugin highlights weaselwords in red and passive sentences in blue. Example:
+Improve your writing in Vim by highlighting weasel words.
+The plugin highlights weaselwords in red and passive sentences in blue. Example:
 
 ![vim-weaselwords example in Vim editor](example.png)
 

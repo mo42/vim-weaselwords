@@ -2,7 +2,7 @@ let s:fileBase = expand('<sfile>:p:h')
 let g:weaselWordsCurrentMatches = []
 let g:passiveMatches = []
 
-function! s:LoadWeaselWordsLanguage(language)
+function! s:LoadWeaselWords(language)
   let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
   if !filereadable(l:f)
     echomsg "File of weasel words not found: " . l:f
@@ -11,6 +11,17 @@ function! s:LoadWeaselWordsLanguage(language)
   for line in readfile(l:f)
     let l:id = matchadd('weaselWordsGroup', '\c' . line)
     call add(g:weaselWordsCurrentMatches, l:id)
+  endfor
+endfunction
+
+function! RemoveWords(language)
+  let l:f = s:fileBase . '/../weaselwords_' . a:language . '.txt'
+  if !filereadable(l:f)
+    echomsg "File of weasel words not found: " . l:f
+    return
+  endif
+  for line in readfile(l:f)
+    silent! execute '%s/' . line . '//g'
   endfor
 endfunction
 
@@ -26,10 +37,10 @@ function! s:RemoveMatches()
 endfunction
 
 function! HighlightWeaselWords(language)
-  highlight weaselWordsGroup ctermbg=red ctermfg=white
+  highlight weaselWordsGroup ctermfg=red ctermbg=white guifg=#282828 guibg=#cc241d
   call s:RemoveMatches()
   if (len(a:language) > 0)
-    call s:LoadWeaselWordsLanguage(a:language)
+    call s:LoadWeaselWords(a:language)
   endif
 endfunction
 
@@ -43,13 +54,13 @@ function! s:LoadPassiveWords(language)
   let l:sepIdx = index(l:passiveWords, '--')
   let l:passivePrefixes = filter(copy(l:passiveWords), {idx, _ -> idx < l:sepIdx })
   let l:passiveWords = filter(copy(l:passiveWords), {idx, _ -> idx > l:sepIdx })
-  let l:passiveVoicePattern = '\v(\s' . join(l:passivePrefixes, '|\s') . ')\s+(\w+ed|\w+en\s|' . join(l:passiveWords, '|')  . ')'
+  let l:passiveVoicePattern = '\v(' . join(l:passivePrefixes, '|') . ')(\s|\n)+(\w+ed|\w+en|' . join(l:passiveWords, '|')  . ')'
   let l:id = matchadd('passiveWordGroup', '\c' . l:passiveVoicePattern)
   call add(g:passiveMatches, l:id)
 endfunction
 
 function! HighlightPassive(language)
-  highlight passiveWordGroup ctermbg=blue ctermfg=white
+  highlight passiveWordGroup ctermfg=blue ctermbg=white guifg=#282828 guibg=#458588
   if (len(a:language) > 0)
     call s:LoadPassiveWords(a:language)
   endif

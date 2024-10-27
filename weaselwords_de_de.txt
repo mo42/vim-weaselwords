@@ -6,9 +6,12 @@
  mal 
  schließlich 
 Art und Weise
+Freundeskreis
 aber 
 allerdings
 also 
+am ende des tages
+an sich
 an und fuer sich
 anscheinend
 auch
@@ -21,6 +24,8 @@ auf diese Weise
 auf jeden Fall
 auf jeden Fall nicht
 aufgezeigt 
+aufgleisen
+aus einer hand
 außerdem
 bekanntlich 
 besonders
@@ -77,20 +82,19 @@ hierbei
 hochwertig
 im Allgemeinen
 im Endeffekt
-im Großen und Ganzen
-im Grunde genommen
+im großen und ganzen
 im grunde
 im prinzip
 immer
 immerhin 
-in der Regel
-in der Tat
-in der Tat nicht
+in der regel
 in der regel
 in der tat
-in diesem Zusammenhang
-in jedem Fall
-in jedem Fall nicht
+in der tat
+in der tat nicht
+in diesem zusammenhang
+in jedem fall
+in jedem fall nicht
 inzwischen
 irgendwie
 jedenfalls 
@@ -101,11 +105,12 @@ komplex
 konkret 
 kurz gesagt
 lediglich
-lediglich 
 letztendlich
 letztere 
 letztlich 
+liegt am Herz
 massiv
+maßgeschneidert
 mehr oder weniger
 meistens
 mittlerweile
@@ -115,12 +120,12 @@ nachhaltig
 natürlich
 natürlich 
 normalerweise 
-nun
 nun 
 nämlich 
 obwohl 
 offenbar
 offenbar 
+passgenau
 praktisch
 prinzipiell
 proaktiv
@@ -128,6 +133,7 @@ profund
 prozess des 
 quasi
 rahmenbedingung
+rund um
 scheinbar
 schon 
 sehr
@@ -157,9 +163,9 @@ vielleicht
 vielleicht, vielleicht auch nicht
 vielmehr
 vollumfänglich
+vor dem Hintergrund
 völlig 
 wahrscheinlich
-wahrscheinlich 
 wirklich
 wobei 
 wohl
@@ -167,6 +173,7 @@ wohl
 zeitnah
 zielorientiert
 ziemlich
+zu guter letzt
 zwar
 zweifellos
 überhaupt 
