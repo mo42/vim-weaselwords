@@ -56,6 +56,7 @@ entsprechend
 erfolgt 
 ernsthaft
 erst 
+erst gar
 erstere 
 es scheint, als ob
 etwa 
@@ -83,6 +84,7 @@ gewisser weise
 gewissermaßen
 gleichsam
 grundsätzlich
+gut und richtig
 halt 
 hauptsächlich
 hierbei
@@ -176,6 +178,7 @@ vollumfänglich
 vor dem Hintergrund
 völlig 
 wahrscheinlich
+wie gewohnt
 wirklich
 wobei 
 wohl
