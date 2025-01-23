@@ -24,8 +24,9 @@ The plugin highlights weaselwords in red and passive sentences in blue. Example:
 |Vim-Plug | `Plug 'mo42/vim-weaselwords'` |
 |pathogen.vim| `Plug 'mo42/vim-weaselwords'` |
 |Vundle | `Plugin 'mo42/vim-weaselwords'` |
+|Packer | `use 'mo42/vim-weaselwords'` |
 
-Then, run `:PluginInstall` (Vundle) or `:PlugInstall` (Vim-plug).
+Then, run `:PluginInstall` (Vundle) or `:PlugInstall` (Vim-plug) etc.
 
 ## Usage
 
@@ -44,7 +45,7 @@ clear existing highlights call with the empty string:
 `call HighlightPassive(g:current_spell_language)`
 
 ### Cycling through spell checkers, weasel words and passive
-VimScript for cycling through spell checkers and enabling corresponding weasel
+VimScript snippet for cycling through spell checkers and enabling corresponding weasel
 words:
 
 ```vim
@@ -65,6 +66,29 @@ function CycleSpellLanguage()
     echo 'Current spell language ' . g:current_spell_language
   endif
 endfunction
+```
+
+Lua snippet for cycling through spell checkers and enabling corresponding weasel
+words:
+```lua
+local current_spell_language = "en_us"
+local languages = { "en_us", "de_de", "" }
+local function cycle_spell_language()
+  local index = vim.tbl_contains(languages, current_spell_language) and vim.fn.index(languages, current_spell_language) or 0
+  current_spell_language = languages[(index + 1) % #languages + 1]
+  if current_spell_language == '' then
+    vim.opt.spell = false
+    print('No spell language')
+  else
+    vim.opt.spell = true
+    vim.opt.spelllang = current_spell_language
+    print('Current spell language: ' .. current_spell_language)
+  end
+  vim.fn['HighlightWeaselWords'](current_spell_language)
+  vim.fn['HighlightPassive'](current_spell_language)
+end
+
+vim.keymap.set('n', '<leader>l', cycle_spell_language, { desc = "Cycle through spell languages" })
 ```
 
 ## License
