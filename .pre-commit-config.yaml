@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: check-duplicate-lines
+        name: Check for duplicate lines
+        entry: sh scripts/check_duplicates.sh
+        language: system
+        files: \.txt$
