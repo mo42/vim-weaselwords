@@ -16,6 +16,7 @@ The plugin highlights weaselwords in red and passive sentences in blue. Example:
 - German
 - French
 - Spanish
+- Dutch (basic)
 
 ## Installation
 
