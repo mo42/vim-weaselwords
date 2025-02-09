@@ -4,6 +4,7 @@
  prove
  still 
  thing
+ vast
  very
 24/7
 a bit
@@ -28,6 +29,7 @@ as a matter of fact
 as much as
 aspect
 at the end of the day
+at the heart of
 awesome
 basic
 basically
@@ -60,6 +62,7 @@ decidedly
 deep dive
 dense
 detail
+devastating
 difficult
 draw to your attention
 drill down
@@ -226,8 +229,6 @@ usually
 valuable
 value-added
 various
-vast
-vast 
 virtually
 weekly basis
 widespread

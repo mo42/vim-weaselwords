@@ -22,14 +22,64 @@ CONTENTS                                                *weaselwords-contents*
 This plugin provides highlighting of fuzzy words. You can highlight bad words
 using:
 
+VimScript:
 call HighlightWeaselWords(spell_language)
+
+Lua:
+vim.fn['HighlightWeaselWords'](current_spell_language)
 
 Currently, this plugin includes English ('en_us'), German ('de_de'), and some
 French ('fr_fr'), and Spanish ('es_es').
 
 The plugin also can also highlight passive sentences (currently for English):
 
+VimScript:
 call HighlightPassive(spell_language)
+
+Lua:
+vim.fn['HighlightPassive'](current_spell_language)
+
+VimScript snippet for cycling through spell checkers and enabling corresponding weasel
+words:
+
+nnoremap <leader>l :call CycleSpellLanguage()<cr>
+let g:current_spell_language = ''
+function CycleSpellLanguage()
+  let languages = ['', 'en_us', 'de_de']
+  let i = (index(languages, g:current_spell_language) + 1) % len(languages)
+  let g:current_spell_language = languages[i]
+  call HighlightWeaselWords(g:current_spell_language)
+  call HighlightPassive(g:current_spell_language)
+  if empty(g:current_spell_language)
+    set nospell
+    echo 'No spell language'
+  else
+    set spell
+    let &spelllang=g:current_spell_language
+    echo 'Current spell language ' . g:current_spell_language
+  endif
+endfunction
+
+Lua snippet for cycling through spell checkers and enabling corresponding weasel
+words:
+local current_spell_language = "en_us"
+local languages = { "en_us", "de_de", "" }
+local function cycle_spell_language()
+  local index = vim.tbl_contains(languages, current_spell_language) and vim.fn.index(languages, current_spell_language) or 0
+  current_spell_language = languages[(index + 1) % #languages + 1]
+  if current_spell_language == '' then
+    vim.opt.spell = false
+    print('No spell language')
+  else
+    vim.opt.spell = true
+    vim.opt.spelllang = current_spell_language
+    print('Current spell language: ' .. current_spell_language)
+  end
+  vim.fn['HighlightWeaselWords'](current_spell_language)
+  vim.fn['HighlightPassive'](current_spell_language)
+end
+
+vim.keymap.set('n', '<leader>l', cycle_spell_language, { desc = "Cycle through spell languages" })
 
 ==============================================================================
 2. License                                                *WeaselWordsLicense*
@@ -64,5 +114,7 @@ v1.2.0
     * Passive support for English and extended word lists
 v1.2.1
     * Refined passive support and words lists
+v1.2.2
+    * Updated weasel words and documentation for Lua
 
 ==============================================================================
