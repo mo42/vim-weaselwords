@@ -1,12 +1,20 @@
+ eben 
+ gerade 
+ groß
+ klein
+ mach
+ mal 
+ schließlich 
+Art und Weise
+Freundeskreis
 aber 
 abgedroschen
 allerdings
 also 
 am ende des tages
-anscheinend
 an sich
 an und fuer sich
-Art und Weise
+anscheinend
 auch
 auf alle Fälle
 auf dem Schirm
@@ -15,11 +23,12 @@ auf den ersten Blick scheint
 auf der anderen Seite
 auf der anderen Seite des Spektrums
 auf diese Weise
-aufgezeigt 
-aufgleisen
+auf gut deutsch
 auf jeden Fall
 auf jeden Fall nicht
 auf zack
+aufgezeigt 
+aufgleisen
 aus einer hand
 außen vor lassen
 außerdem
@@ -38,7 +47,6 @@ dennoch
 doch 
 durchaus 
 durchaus möglich
- eben 
 eher
 eher 
 eigentlich
@@ -49,8 +57,8 @@ entsprechend
 erfolgt 
 ernsthaft
 erst 
-erstere 
 erst gar
+erstere 
 es scheint, als ob
 etwa 
 eventuell
@@ -61,24 +69,21 @@ finden, dass
 findet, dass
 formal 
 freilich 
-Freundeskreis
 frohes schaffen
 ganz
 ganzheitlich
 gar 
 genau 
- gerade 
 gewiss
 gewissem maße
 gewisser Hinsicht
 gewisser Hinsicht kann
-gewissermaßen
-gewisser weise
 gewisser Weise
 gewisser Weise schon
 gewisser Weise stimmt
+gewisser weise
+gewissermaßen
 gleichsam
- groß
 grundsätzlich
 gut und richtig
 halt 
@@ -90,9 +95,9 @@ im Endeffekt
 im Endergebnis
 im großen und ganzen
 im grunde
+im prinzip
 immer
 immerhin 
-im prinzip
 in alter Frische
 in der regel
 in der tat
@@ -106,7 +111,6 @@ jedenfalls
 jedoch 
 keinesfalls
 klar
- klein
 komplex
 konkret 
 kurz gesagt
@@ -115,45 +119,42 @@ letztendlich
 letztere 
 letztlich 
 liegt am Herz
- mach
- mal 
-maßgeschneidert
-mäßig 
 massiv
+maßgeschneidert
 mehr oder weniger
 meistens
 mittlerweile
+mäßig 
 möglicherweise
 nachhaltig
-nämlich 
 natürlich
 natürlich 
 normalerweise 
 nun 
+nämlich 
 obwohl 
 offenbar
 offenbar 
-pädagogisch sinnvoll
 passgenau
 praktisch
 prinzipiell
 proaktiv
 profund 
 prozess des 
+pädagogisch sinnvoll
 quasi
 rahmenbedingung
 rund um
 scheinbar
- schließlich 
 schon 
 sehr
 selbstverständlich 
 sicherlich 
 sinnvoll
 so 
+so oder so
 sogar
 solch
-so oder so
 sozusagen
 standardmäßig
 streng genommen 
@@ -163,10 +164,6 @@ total
 traditionell 
 trotzdem 
 typisch
-überhaupt 
-überwiegend 
-üblicherweise 
-übrigens
 unbedingt 
 und so weiter
 unter Umständen
@@ -177,9 +174,9 @@ vgl.
 vielleicht
 vielleicht, vielleicht auch nicht
 vielmehr
-völlig 
 vollumfänglich
 vor dem Hintergrund
+völlig 
 wahrscheinlich
 wie gewohnt
 wirklich
@@ -192,3 +189,7 @@ ziemlich
 zu guter letzt
 zwar
 zweifellos
+überhaupt 
+überwiegend 
+üblicherweise 
+übrigens
